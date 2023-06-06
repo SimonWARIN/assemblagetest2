@@ -9,7 +9,7 @@ int resolution = 8; // Résolution PWM en bits (8 bits pour une sortie allant de
 
 const int pwmPin = 13; // Broche de sortie PWM
 
-//define sound speed in cm/uS
+//define sound speed in cm/uSaaaa
 #define SOUND_SPEED 0.034
 #define CM_TO_INCH 0.393701
 
